@@ -8,7 +8,7 @@ If you use PyWinAdjoint, please, cite the following paper:
 
 Ciardelli, C., Assumpção, M, Bozdağ, E., and  van der Lee, S., 2021. Adjoint Tomography of South America based on 3D Spectral-Element Seismic Wave Simulations. JGR: Solid Earth, submitted.
 
-[![DOI](https://zenodo.org/badge/375481019.svg)](https://zenodo.org/badge/latestdoi/375481019)
+[![DOI](https://zenodo.org/badge/394311067.svg)](https://zenodo.org/badge/latestdoi/394311067)
 
 ## Installation
 
