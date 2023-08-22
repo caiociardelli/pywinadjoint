@@ -6,7 +6,7 @@ Author: Caio Ciardelli
 
 If you use PyWinAdjoint, please, cite the following paper:
 
-Ciardelli, C., Assumpção, M, Bozdağ, E., and  van der Lee, S., 2022. Adjoint Tomography of South America based on 3D Spectral-Element Seismic Wave Simulations. JGR: Solid Earth.
+Ciardelli, C., Assumpção, M., Bozdağ, E., & van der Lee, S. (2022). Adjoint waveform tomography of South America. Journal of Geophysical Research: Solid Earth, vol. 127, n° 2, e2021JB022575. https://doi.org/10.1029/2021JB022575
 
 [![DOI](https://zenodo.org/badge/394311067.svg)](https://zenodo.org/badge/latestdoi/394311067)
 
@@ -33,11 +33,11 @@ Development is hosted on GitHub in the [caio.ciardelli/pywinadjoint repository](
 
 Please, also cite:
 
-Yuan, Y.O., Bozdağ, E., Ciardelli, C., Gao, F., Simons, F.J., 2020. The exponentiated phase measurement, and objective-function hybridization for adjoint waveform tomography. Geophysical Journal International, v. 221, no. 2, p. 1145–1164. doi: 10.1093/gji/ggaa063,
+Yuan, Y.O., Bozdağ, E., Ciardelli, C., Gao, F., Simons, F.J., 2020. The exponentiated phase measurement, and objective-function hybridization for adjoint waveform tomography. Geophysical Journal International, vol. 221, n° 2, p. 1145-1164. https://doi.org/10.1093/gji/ggaa063,
 
 for the exponentiated phase measurement and:
 
-Ruan, Y., Lei, W., Modrak, R., Örsvuran, R., Bozdağ E., Tromp, J., 2019. Balancing unevenly distributed data in seismic tomography: a global adjoint tomography example. Geophysical Journal International, v. 219, no. 2, p. 1225–1236, doi:10.1093/gji/ggz356,
+Ruan, Y., Lei, W., Modrak, R., Örsvuran, R., Bozdağ E., Tromp, J., 2019. Balancing unevenly distributed data in seismic tomography: a global adjoint tomography example. Geophysical Journal International, vol. 219, n° 2, p. 1225-1236. https://doi.org/10.1093/gji/ggz356,
 
 for the receiver weights to balance uneven station distribution.
 
