@@ -6,7 +6,7 @@ Author: Caio Ciardelli
 
 If you use PyWinAdjoint, please, cite the following paper:
 
-Ciardelli, C., Assumpção, M, Bozdağ, E., and  van der Lee, S., 2021. Adjoint Tomography of South America based on 3D Spectral-Element Seismic Wave Simulations. JGR: Solid Earth, submitted.
+Ciardelli, C., Assumpção, M, Bozdağ, E., and  van der Lee, S., 2022. Adjoint Tomography of South America based on 3D Spectral-Element Seismic Wave Simulations. JGR: Solid Earth.
 
 [![DOI](https://zenodo.org/badge/394311067.svg)](https://zenodo.org/badge/latestdoi/394311067)
 
@@ -55,6 +55,7 @@ In case you set "save_binary" to "True" in the "Config.cfg" file, you need to co
 
 ```shell
 ./utils/expand.bash 1 4
+```
 
 ## Contact
 -----------------------
